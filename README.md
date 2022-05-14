@@ -1,2 +1,2 @@
-# python-challenge-cohen
-Python Challenge Homework for NU Data Science Bootcamp
+# python-challenge
+Data Science Boot Camp Python Homework 
